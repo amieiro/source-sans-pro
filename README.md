@@ -15,13 +15,15 @@ by using the AFDKO makeotf tool.
 
 ## Original project
 
-* [GitHub] https://github.com/adobe-fonts/source-sans-pro
+* [GitHub] (https://github.com/adobe-fonts/source-sans-pro)
 
 ## Downloads
 
-* [TTF downloaded from GitHub] https://github.com/adobe-fonts/source-sans-pro/archive/master.zip
-* [OTF downloaded from fontsbytes] http://fontsbytes.com/s/source-sans-pro/
+* [EOT downloaded from GitHub] (https://github.com/ryzy/bower-font-source-sans-pro/tree/master/EOT)
+* [TTF downloaded from GitHub] (https://github.com/adobe-fonts/source-sans-pro/archive/master.zip)
+* [OTF downloaded from fontsbytes] (http://fontsbytes.com/s/source-sans-pro/)
+* [WOFF downloaded from GitHub] (https://github.com/ryzy/bower-font-source-sans-pro/tree/master/EOT)
 
 ## License
 
-[SIL Open Font License (OFL) version 1.1] http://scripts.sil.org/OFL
+[SIL Open Font License (OFL) version 1.1] (http://scripts.sil.org/OFL)
