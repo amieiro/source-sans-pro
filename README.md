@@ -1,6 +1,6 @@
 # Source Sans Pro
 
-Source Sans Pro font. In this project I only release the binary sources in TTF format.
+Source Sans Pro font. In this project I only release the binary sources (EOT, TTF, OTF and WOFF formats).
 
 Source Sans Pro is a set of OpenType fonts that have been designed to work well
 in user interface (UI) environments. In addition to a functional OpenType font, this open
@@ -15,15 +15,15 @@ by using the AFDKO makeotf tool.
 
 ## Original project
 
-* [GitHub] (https://github.com/adobe-fonts/source-sans-pro)
+* [GitHub](https://github.com/adobe-fonts/source-sans-pro)
 
 ## Downloads
 
-* [EOT downloaded from GitHub] (https://github.com/ryzy/bower-font-source-sans-pro/tree/master/EOT)
-* [TTF downloaded from GitHub] (https://github.com/adobe-fonts/source-sans-pro/archive/master.zip)
-* [OTF downloaded from fontsbytes] (http://fontsbytes.com/s/source-sans-pro/)
-* [WOFF downloaded from GitHub] (https://github.com/ryzy/bower-font-source-sans-pro/tree/master/EOT)
+* [EOT downloaded from GitHub](https://github.com/ryzy/bower-font-source-sans-pro/tree/master/EOT)
+* [TTF downloaded from GitHub](https://github.com/adobe-fonts/source-sans-pro/archive/master.zip)
+* [OTF downloaded from fontsbytes](http://fontsbytes.com/s/source-sans-pro/)
+* [WOFF downloaded from GitHub](https://github.com/ryzy/bower-font-source-sans-pro/tree/master/EOT)
 
 ## License
 
-[SIL Open Font License (OFL) version 1.1] (http://scripts.sil.org/OFL)
+[SIL Open Font License (OFL) version 1.1](http://scripts.sil.org/OFL)
